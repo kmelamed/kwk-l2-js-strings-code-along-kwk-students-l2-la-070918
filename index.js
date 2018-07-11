@@ -1,2 +1,2 @@
 const currentUser = 'Grace Hopper';
-const welcomMessage = 'Welcome to Klossybook, ';
+const welcomeMessage = 'Welcome to Klossybook, ';
